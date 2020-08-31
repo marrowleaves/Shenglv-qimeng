@@ -1,0 +1,11 @@
+{
+  "name": "Shenglv-qimeng",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:marrowleaves/Shenglv-qimeng.git",
+  "author": "marrowleaves <marrowleaves@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pinyin": "^2.9.1"
+  }
+}
